@@ -9,7 +9,7 @@ public class Main {
         //THE LONG WAY
         String message = "";
 
-        if(!isDiabetic && isHungry){ // is not Diabetic and is Hungry
+        if(!isDiabetic && isHungry){  // is not Diabetic and is Hungry
             message = "Eat the cake.";
         }else{
             message = "Don't eat the cake.";
